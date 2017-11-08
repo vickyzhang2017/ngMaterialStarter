@@ -4,3 +4,8 @@ node_modules/
 bower_components/
 tmp
 .DS_Store
+.idea/modules.xml
+.idea/ngMaterialStarter.iml
+.idea/vcs.xml
+.idea/workspace.xml
+
